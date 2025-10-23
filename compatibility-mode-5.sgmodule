@@ -1,5 +1,5 @@
-#!name=解决 Homekit Camera 无法连接问题
-#!desc=将接管模式修改为“非默认路由”，解决 Homekit Camera 无法连接问题
+#!name=解决 Homekit Camera 无法连接的问题
+#!desc=将接管模式修改为“非默认路由”，解决 Homekit Camera 无法连接的问题。
 #!system=ios
 
 [General]
